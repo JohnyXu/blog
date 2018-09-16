@@ -1,0 +1,13 @@
+- name: Software Engineer Keywords
+  keywords:
+      - C++
+      - Python
+      - Design Patterns
+
+- name: Mobile Developer Keywords
+  keywords:
+      - Cocos2d-x
+      - Lua
+      - Javasript
+      - Cocos Creator
+
