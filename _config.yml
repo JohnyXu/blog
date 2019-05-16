@@ -98,14 +98,14 @@ gitment:
     owner: JohnyXu
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: a2a4437d3d14f7d2d245
+        client_secret: d8e65801fbb160336e03a4350da0157b5ff14863
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: JohnyXu
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: a2a4437d3d14f7d2d245
+    clientSecret: d8e65801fbb160336e03a4350da0157b5ff14863
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
