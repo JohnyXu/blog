@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://JohnnyXq.github.io/blog
+url: https://JohnyXu.github.io/blog
 date_format: "ordinal"
 title: 飞翔鸟
 subtitle: "一只翱翔于蓝天的小菜鸟"
@@ -15,10 +15,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: JohnnyXq
+author: JohnyXu
 organization: 空白
 organization_url: http://www.github.com
-github_username: JohnnyXq
+github_username: JohnyXu
 location: ShangHai, China
 email: ahstuxq@163.com
 
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: JohnnyXq/blog
+repository: JohnyXu/blog
 
 # ---------------- #
 #      Comments    #
@@ -95,14 +95,14 @@ disqus:
     username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: JohnnyXq
+    owner: JohnyXu
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: JohnnyXq
+    owner: JohnyXu
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
