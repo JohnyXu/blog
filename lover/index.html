@@ -776,8 +776,10 @@ body{
 
     <script>
         function timer() {
-            var start = new Date(2018, 02, 12); // 2018.2.12
-            var t = new Date() - start;
+            var start = new Date(2018, 01, 12); // 2018.2.12
+            var end = new Date();
+            var t = end - start;
+            // console.log(start,end,t);
             var h = ~~(t / 1000 / 60 / 60 % 24);
             if (h < 10) {
                 h = "0" + h;
