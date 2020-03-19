@@ -1,0 +1,81 @@
+---
+layout: post
+title: English Learning(最常用的旅游英文)
+categories: English
+description: 最常用的旅游英文
+keywords: English Speaking
+---
+
+本文来自 卡尔英语会话 * Learn English 文字稿，如侵权，请告知，立删
+# 基础英语口语三十五句! (最常用的旅游英文)
+## 中文
+1. 请给我这个
+2. 请给我这个和那个
+3. 可以便宜点吗？
+4. 太贵了，请便宜点
+5. 太贵了，便宜点可以吗？
+6. 我现在没有现金
+7. 我现在没有现金，可以刷卡吗？
+8. 这两个多少钱?P
+9. 一共多少钱?
+10. 我要一个袋子
+11. 我要一个塑料袋
+12. 我要一个纸袋
+13. 不好意思我没有零钱
+14. 我只有硬币服务员，
+15. 买单
+16. 服务员，有餐巾纸吗？
+17. 能推荐一下吗？
+18. 这个可以在热一下吗？
+19. 服务员，请给我一个勺子
+20. 服务员，加一瓶可乐
+21. 请问出口在哪儿？
+22. 公用电话在哪儿？
+23. 我可以借用一下您的电话吗？
+24. 你好，可以帮我拍张照片吗？
+25. 可以和我一起拍张照片吗？
+26. 按这个按键就行这儿附近有超市吗？
+27. 这个附近有咖啡厅吗？
+28. 这儿附近有洗手间吗？
+29. 收银台在哪儿？
+30. 化妆品专柜在哪儿？
+31. 家电部在哪儿？
+32. 自动扶梯在哪儿？
+33. 电梯在哪儿？
+34. 更衣室在哪儿？
+
+## English
+1. Please give me this.
+2. Please give me this and that.
+3. Can you make a discount.
+4. It's too expensive. Please give me a discount.
+5. It's too expensive. Can you give me a discount?
+6. I don't have cash now.
+7. I don't have cash now. Can I use my credit card?
+8. How much are these two?
+9.  How much is it altogether?
+10. Please give me a bag.
+11. Please give me a plastic bag
+12. Please give me a paper bag
+13. Sorry, I have no change.
+14. I only have coins.
+15. Waiter, Check Please.
+16. Waiter, Can I get some napkins?
+17. Do you have any recommendations?
+18. Could you reheat this?
+19. Excuse me, Can you get me a spoon?
+20. Excuse me, Can you get me a bottle of coke?
+21. Excuse me, Where is the exit?
+22. Where is the payphone?
+23. Could I use your phone?
+24. Excuse me,Could you take a picture for me?
+25. May I take a picture with you?
+26. Please press this button on the camera.
+27. Is there a supermarket around here?
+28. Is there a coffee house around here?
+29. Where is the check-out counter?
+30. Where is the cosmetics department?
+31. Where is the home appliance department?
+32. Where is the escalator?
+33. Where is the elevator?
+34. Where is the fitting room?
