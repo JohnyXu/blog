@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 高频WFD句子
+title: 黑科技高频WFD句子 1-100
 categories: English
 description: 高频WFD句子 PTE黑科技
 keywords: PTE WFD
@@ -10,12 +10,12 @@ keywords: PTE WFD
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **高频WFD句子**
 
-- [高频WFD句子](#%e9%ab%98%e9%a2%91wfd%e5%8f%a5%e5%ad%90)
+- [黑科技高频WFD句子 1-100](#%E9%BB%91%E7%A7%91%E6%8A%80%E9%AB%98%E9%A2%91wfd%E5%8F%A5%E5%AD%90-1-100)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-# 高频WFD句子
+# 黑科技高频WFD句子 1-100
 1. Social policy describes the ways in which the society meets human's needs.
 2. People will never learn that the life exists on the other planets.
 3. Medical researchers have focused on the causes of diseases and treatments
@@ -71,3 +71,48 @@ keywords: PTE WFD
 53. Having strong motivation is vital for achieving your goal.
 54. The deadline of the marketing assignment has been extended.
 55. The deadline for the submission of this assignment is tomorrow.
+56. Accommodations on campus are limited but there are more options nearby.
+57. Leave the building immediately if the fire alarm goes off.
+58. The student magazine is looking for a new editor.
+59. Understanding visual media has never been more challenging.
+60. Career mobility is very important for many new graduates.
+61. Thousands of people turned out to be at the presidential address.
+62. All students have their own styles of learning.
+63. Education is more about just learning skills for employment.
+64. Water is heated in the flask and added to the mixture.
+65. Teaching assistance plays a vital role in the learning process.
+66. Scholarships are avaiable for both local and international students.
+67. We are more able to accommodate postgraduate students than previously possible.
+68. Our company currently employs more than ten thousands around the world.
+69. Findings show that cocoa in dark chocolate improves memory, immunity and mood.
+70. The British students need to study mathematics in secondary school.
+71. Family life is difficult for parents who have shift work.
+72. The extent of advertising for children is very much open to debate.
+73. The internet has transformed the nature of publishing.
+74. You wrote poetry and plays as well as scientific papers.
+75. The night sky has always involved mystery and wonder.
+76. Sugar is a solid carbohydrate which is always used to sweeten food.
+77. Nutrition plays a key role in athletic performance.
+78. Every living thing begans as a single cell.
+79. The urban geography degree includes the study of demography.
+80. The degree is taught by using a mixture of lectures and seminars.
+81. Our aim is to transform the classical teaching in the classroom.
+82. The use of mobile phones is not permitted in the library.
+83. New media journalism is an interesting area for study.
+84. In any written assignment, a detailed literature review is very important.
+85. Fruits containing too much sugar and calories have little or no nutrition and value.
+86. His appointment as Minister of Culture was seen as a demotion.
+87. Good nutrition is crucial to the general health and vitality.
+88. Momentum is defined as a combination of mass and velocity.
+89. Industrial experts will disscuss job opportunities in an automatic labor force.
+90. Our medical school students must attend the talk about optional courses.
+91. The same issues featured both explainations of the problem.
+92. Remember, the prestigious selection has strict eligibility criteria.
+93. Most of these features were part of the previous system.
+94. The artists tied with conservative politicians earned the roles of critics.
+95. The placement test of mathematics and statistics is offered every semester.
+96. The teacher asked the group to commence the task.
+97. Supply and demand is one of the most fundenmental concepts of the economics.
+98. The ways in which people communicate are constantly changing.
+99. You may need to purchase an academic gown for the commencement.
+100. A good research delivers practical benefits for real people.
