@@ -17,7 +17,7 @@ keywords: Git SourceTree
 
 # SourceTree 免注册安装
 
-在```C:\Users\xuq\AppData\Local\Atlassian\SourceTree```增加```account.json```文件，内容如下,其中xuq改为你计算机的用户名
+在```C:\Users\user\AppData\Local\Atlassian\SourceTree```增加```account.json```文件，内容如下,其中user改为你计算机的用户名
 
 ```json
 [
